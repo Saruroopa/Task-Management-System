@@ -1,1 +1,2 @@
-# Task-Management-System
+Task Management System
+The **Task Management System in C** is a console-based application that helps users organize and manage their tasks efficiently. It allows users to add, view, search, update, complete, and delete tasks while assigning priorities and due dates. Developed using C programming, structures, arrays, and functions, the system provides a simple menu-driven interface for managing pending and completed tasks.
